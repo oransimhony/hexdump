@@ -1,5 +1,6 @@
 # hexdump
 A simple colorful hexdump program I made in C
+![](images/screenshot.png)
 
 ## Installation
 ```sh
