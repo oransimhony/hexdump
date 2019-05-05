@@ -20,7 +20,8 @@ void printHex(unsigned char buffer[], size_t length) {
         }
         else
             printf("  ");
-
+        if(i == 7)
+            putchar(' ');
         putchar(' ');
     }
     putchar(' ');
